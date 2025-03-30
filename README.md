@@ -58,8 +58,8 @@
 <br>
 <img src="figures/Simulation result example 1.jpg" width="800"/>
 
+
 ### 📈 Conclusion
-<br>
 
 ✅ **R 기반 통합 분석 도구 개발**
 - 실제 데이터의 특성을 파악하여 분석에 용이하게 자동 전처리
@@ -72,7 +72,7 @@
      
 - 추가적으로 변동성 차이 패턴에 대한 **생물학적 해석을 위한 알고리즘을 제안 및 활용**하여 새로운 인사이트 도출 가능성을 증명함
 
-<img src="figures/Substantiation.jpg" width="700"/>
+<img src="figures/Substantiation.jpg" width="600"/>
 
 
 
