@@ -5,7 +5,7 @@
 - **Tools**:&nbsp;&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-- **Skills**: Simulation study, Statistical modeling, Method modification, Parallel processing, Data preprocessing, Visualization
+- **Skills**: Statistical simulation, Statistical modeling, Parallel processing, Data preprocessing, Visualization
 
 ### 📄 Publication Info
 - **Master’s Thesis**: Software development and application to identify differentially dispersed genes based on transcriptome data (2025)
@@ -24,7 +24,7 @@
 
 <br>
 
-> **실제 생물학적 데이터가 가질 수 있는 다양한 상황을 반영하는 가상 시뮬레이션 데이터 생성**
+1️⃣ **실제 생물학적 데이터가 가질 수 있는 다양한 상황을 반영하는 가상 시뮬레이션 데이터 생성**
 
 - WEHI 연구기관의 통계 그룹에서 good-turing 빈도 추정 방식을 기반으로 구축한 가상 생물학 데이터 생성 방식을 활용함
  
@@ -32,7 +32,7 @@
 
 <br>
 
-> **변동성 차이 추정이 가능한 통계 방법 정립**
+2️⃣ **변동성 차이 추정이 가능한 통계 방법 정립**
 
 - 전통적 통계 방법, 선형 회귀 기반 방법, 특정 분야에서 개발된 방법 등 **변동성 차이를 추정할 가능성 있는 다양한 방법 조사 (49가지)**
   
@@ -44,7 +44,7 @@
 
 <br>
 
->  **모든 가상 데이터에 24가지 분석 방법 적용 후 성능 비교/분석**
+3️⃣ **모든 가상 데이터에 24가지 분석 방법 적용 후 성능 비교/분석**
 
 그 결과,
 
@@ -61,13 +61,13 @@
 ### 📈 Conclusion
 <br>
 
-> **R 기반 통합 분석 도구 개발**
+✅ **R 기반 통합 분석 도구 개발**
 - 실제 데이터의 특성을 파악하여 분석에 용이하게 자동 전처리
 - **병렬 처리 기반 최적의 변동성 차이 분석** 수행
 - 분석 결과 통합 정리
 <br>
 
-> **실제 생물학적 데이터에서 도구의 필요성 실증**
+✅ **실제 생물학적 데이터에서 도구의 필요성 실증**
 - 미국 COPD 환자 코호트의 생물학 데이터를 바탕으로 흡연자와 금연자 간 최적의 변동성 차이 분석 방법을 적용하여 본 연구의 필요성을 실증함
      
 - 추가적으로 변동성 차이 패턴에 대한 **생물학적 해석을 위한 알고리즘을 제안 및 활용**하여 새로운 인사이트 도출 가능성을 증명함
@@ -79,7 +79,7 @@
 <br><br>
 # File Structure
 
-✅ 모든 시뮬레이션 벤치마크 결과 및 툴 사용을 위한 R 스크립트가 업로드되었으며, 시각화를 위한 스크립트는 업로드 하지 않음
+모든 시뮬레이션 벤치마크 결과 및 툴 사용을 위한 R 스크립트가 업로드되었으며, 시각화를 위한 스크립트는 업로드 하지 않음
 
 ### 📁 Result 
 **Supplementary Table S1.xlsx**: &nbsp;모든 시뮬레이션 디자인 별 조절한 파라미터 정보
