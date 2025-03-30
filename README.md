@@ -1,5 +1,5 @@
 # Description
-- **Title**: Developed simulation and R-based integrated analysis tools to detect patterns of variability differences in data   
+- **Title**: Develope simulation and R-based integrated analysis tool to detect pattern of variability differences in data   
 **`데이터 내 변동성 차이 패턴 검출을 위한 시뮬레이션 및 R 기반 통합 분석 도구 개발`**
   
 - **Tools**:&nbsp;&nbsp;
