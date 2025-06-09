@@ -1,17 +1,26 @@
-# Description
-- **Title**: Develop simulation and R-based integrated analysis tool to detect pattern of variability differences in data   
+## Project Overview  
 **`데이터 내 변동성 차이 패턴 검출을 위한 시뮬레이션 및 R 기반 통합 분석 도구 개발`**
-  
-- **Tools**:&nbsp;&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-- **Skills**: Statistical simulation, Statistical modeling, Parallel processing, Data preprocessing, Visualization
 
-### 📄 Publication Info
-- **Master’s Thesis**: Software development and application to identify differentially dispersed genes based on transcriptome data (2025)
-- **Institution**: Korea University, Graduate School of Computer and Information Science
+- 📄**Publication**: [Software development and application to identify differentially dispersed genes based on transcriptome data](https://dcollection.korea.ac.kr/srch/srchDetail/000000290983)
+
+- 🏆 **Journal**: *Master’s Thesis, Korea University* &nbsp;&nbsp;**석사학위 논문**
 <br><br>
-# Summary
+
+## Tech Stack
+- **Programming**:
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white)
+
+- **Visualization**:
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-2C3E50?style=flat-square&logo=ggplot2&logoColor=white)
+
+- **Analysis**: `Statistical simulation` `Statistical modeling` `Parallel programming`, `Visualization`
+
+- **Data**
+  - **시뮬레이션 생물정보 데이터** - 통계 모델 기반으로 생성한 시뮬레이션 데이터 <br> (유전자 10,000개 X 샘플 수 10 ~ 3,000개 규모의 데이터셋 약 60,000개)
+  - **미국 COPD 환자 코호트 생물정보 및 임상 데이터** - 개발한 분석 도구의 실증을 위해 활용한 실제 대규모 환자 데이터 <br> (약 3,700명 환자 X 약 66,000개 유전자 X 722개 임상정보 규모의 데이터셋) 
+
+## Summary
 ### 🤔 Problem
 
 건강한 사람들의 유전자 발현은 일반적으로 일정한 범위 내에서 유지되지만, 암과 같이 예측이 어려운 질병에서는 환자마다 발현이 크게 달라지는 경우가 많음. 이처럼 질병 상태에 따라 발생하는 **발현의 불안정성 = 변동성(분산)의 차이**는 생물학적 해석에 중요한 단서가 될 수 있지만, 기존 연구는 특정 분석 방법에 의존할 뿐 체계적인 연구가 부족함 
@@ -79,7 +88,7 @@
 
 
 <br><br>
-# File Structure
+## File Structure
 
 모든 시뮬레이션 벤치마크 결과 및 툴 사용을 위한 R 스크립트가 업로드되었으며, 시각화용 스크립트는 업로드 하지 않음
 
