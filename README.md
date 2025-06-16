@@ -1,5 +1,5 @@
 ## Project Overview  
-**`데이터 내 (변동성 차이) 패턴 검출을 위한 시뮬레이션 및 R 기반 통합 분석 도구 개발`**
+**`데이터 내 유의미한 패턴 검출을 위한 시뮬레이션 기반 통합 분석 도구 개발`**
 
 - 📄**Publication**: [Software development and application to identify differentially dispersed genes based on transcriptome data](https://dcollection.korea.ac.kr/srch/srchDetail/000000290983)
 
