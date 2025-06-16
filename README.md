@@ -14,7 +14,7 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-2C3E50?style=flat-square&logo=ggplot2&logoColor=white)
 
-- **Analysis**: `Statistical simulation` `Statistical modeling` `Parallel programming`, `Data Preprocessing`, `Visualization`
+- **Analysis**: `Data Simulation Pipeline` `Statistical Modeling` `Parallel Programming`, `Data Preprocessing`, `Visualization`
 
 - **Data**
   - **시뮬레이션 생물정보 데이터** - 통계 모델 기반으로 생성한 시뮬레이션 데이터 <br> (유전자 10,000개 X 샘플 수 10 ~ 3,000개 규모의 데이터셋 약 62,000개)
